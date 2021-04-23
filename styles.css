@@ -493,6 +493,10 @@ a.btn:active {
   background-color: #4F33FF;
 }
 
+.service:hover a {
+  background-color: #000;
+}
+
 .service:hover span {
   color: #fff;
 }
@@ -578,6 +582,10 @@ a.btn:active {
 
 .team:hover .img-cover {
   border-color: #fff;
+}
+
+.team:hover a {
+  background-color: #000;
 }
 
 /* Contact */
