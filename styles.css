@@ -122,7 +122,8 @@ li {
 
 .logo h1 span {
   font-weight: bold;
-  color: #4F33FF;
+  font-size: large;
+  color: #fff;
 }
 
 .nav-list {
